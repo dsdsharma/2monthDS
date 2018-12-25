@@ -7,3 +7,4 @@
 1. [Day-1 The FizzBuzz Problem](./Day_1/)
 2. [Day-2 String Reverse + String Palindrome](./Day2_/)
 3. [Day-3 Hamming Distance Problem for Two String](./Day_3/)
+4. [Day-4 Number of Vowels + Max Chars](./Day_4/)
